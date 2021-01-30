@@ -23,7 +23,7 @@ func TestKangaroo(t *testing.T) {
 
 	t.Run("", func(t *testing.T) {
 
-		got := Kangaroo(0, 2, 5, 3)
+		got := Kangaroo(43, 2, 70, 2)
 		expected := "NO"
 		isKangaroosOnSameSpot(t, got, expected)
 
