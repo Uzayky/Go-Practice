@@ -19,9 +19,11 @@
 ---
 
 ### Solutions
-
+#### Difficulty : Basic
 + [Staircase Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Staircase)
 + [Mini-Max Sum Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Mini-Max-Sum)
++ [Birthday Cake Candles](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Birthday-Cake-Candles)
+#### Difficulty : Medium
 
 
 ---
