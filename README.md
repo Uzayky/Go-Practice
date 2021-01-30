@@ -15,3 +15,15 @@
 --- 
 
 +   In this project, I solved the algorithm questions on the [HackerRank](https://www.hackerrank.com/) website with the TDD approach. I am going to add more detail about project in the future.
+
+---
+
+### Solutions
+
++ [Staircase Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Staircase)
+
+
+---
+
+
++ For a better solution or your questions, you can always reach by e-mail.
