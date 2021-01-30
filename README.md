@@ -21,6 +21,7 @@
 ### Solutions
 
 + [Staircase Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Staircase)
++ [Mini-Max Sum Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Mini-Max-Sum)
 
 
 ---
