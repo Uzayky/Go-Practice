@@ -4,7 +4,7 @@ import "testing"
 
 func TestSum(t *testing.T) {
 
-	numbers := [5]int{2, 1, 3, 4, 5}
+	numbers := [5]int32{2, 1, 3, 4, 5}
 
 	minSum, maxSum := MiniMaxSum(numbers)
 	expectedMinSum := 14
