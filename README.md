@@ -18,7 +18,7 @@
 
 ---
 
-### Solutions
+### HackerRank Solutions
 #### Difficulty : Basic
 + [Staircase Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Staircase)
 + [Mini-Max Sum Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Mini-Max-Sum)
@@ -28,6 +28,10 @@
 #### Difficulty : Medium
 #### Difficulty : Hard
 
+---
+
+### Grokking Algorithms
++ [Binary Search](https://github.com/Uzayky/Go-Practice/tree/master/Grokking-Algorithms/Binary-Search)
 
 ---
 
