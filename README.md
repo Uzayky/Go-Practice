@@ -14,11 +14,11 @@
 
 --- 
 
-+   In this project, I solved the algorithm questions on the [HackerRank](https://www.hackerrank.com/) website with the TDD approach. I am going to add more detail about project in the future.
++   In this project, I solved the algorithm questions on the [HackerRank](https://www.hackerrank.com/) and [Grokking Algorithms Book](https://www.manning.com/books/grokking-algorithms) website with the TDD approach. I am going to add more detail about project in the future.
 
 ---
 
-### Solutions
+### HackerRank Solutions
 #### Difficulty : Basic
 + [Staircase Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Staircase)
 + [Mini-Max Sum Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Mini-Max-Sum)
@@ -28,6 +28,10 @@
 #### Difficulty : Medium
 #### Difficulty : Hard
 
+---
+
+### Grokking Algorithms
++ [Binary Search](https://github.com/Uzayky/Go-Practice/tree/master/Grokking-Algorithms/Binary-Search)
 
 ---
 
