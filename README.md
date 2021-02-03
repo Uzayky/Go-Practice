@@ -26,6 +26,7 @@
 + [Grading Students Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Grading-Students)
 + [Number Line Jumps Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Number-Line-Jumps)
 #### Difficulty : Medium
++ [Queen's Attack II Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Queens-Attack-II)
 #### Difficulty : Hard
 
 ---
