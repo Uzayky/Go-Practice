@@ -35,6 +35,7 @@
 
 ### Grokking Algorithms
 + [Binary Search](https://github.com/Uzayky/Go-Practice/tree/master/Grokking-Algorithms/Binary-Search)
++ [Selection Sort](https://github.com/Uzayky/Go-Practice/tree/master/Grokking-Algorithms/Selection-Sort)
 
 ---
 
