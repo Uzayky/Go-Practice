@@ -12,6 +12,8 @@
 	+ Write the code and make it pass the tests
 	+ Refactor the code
 
+> **_NOTE:_**  Test cases generally in array and slice context. I will expand the scope of the tests as I learn
+
 --- 
 
 +   In this project, I solved the algorithm questions on the [HackerRank](https://www.hackerrank.com/) and [Grokking Algorithms Book](https://www.manning.com/books/grokking-algorithms) website with the TDD approach. I am going to add more detail about project in the future.
