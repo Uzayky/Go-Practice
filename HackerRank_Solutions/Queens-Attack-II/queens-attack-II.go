@@ -2,6 +2,8 @@ package Queens_Attack_II
 
 import "math"
 
+// https://www.hackerrank.com/challenges/queens-attack-2/problem
+
 func QueensAttack(boardSize int32, obstacleSize int32, queenRow int32, queenColumn int32, obstacles [][]int32) int32 {
 
 	var totalThreatenedSquares int32
