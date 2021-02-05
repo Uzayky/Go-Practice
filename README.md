@@ -29,6 +29,7 @@
 + [Number Line Jumps Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Number-Line-Jumps)
 + [Subarray Division Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Subarray-Division)
 + [Bill Division Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Bill-Division)
++ [Beautiful Days at the Movie Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Beautiful-Days-at-the-Movie)
 #### Difficulty : Medium
 + [Queen's Attack II Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Queens-Attack-II)
 #### Difficulty : Hard
