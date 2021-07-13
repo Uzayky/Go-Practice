@@ -4,16 +4,19 @@
 
 ### HackerRank Solutions
 #### Difficulty : Basic
-+ [Staircase Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Staircase)
-+ [Mini-Max Sum Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Mini-Max-Sum)
-+ [Birthday Cake Candles Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Birthday-Cake-Candles)
-+ [Grading Students Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Grading-Students)
-+ [Number Line Jumps Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank_Solutions/Number-Line-Jumps)
-+ [Subarray Division Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Subarray-Division)
-+ [Bill Division Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Bill-Division)
-+ [Beautiful Days at the Movie Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Beautiful-Days-at-the-Movie)
++ [Staircase Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank-Solutions/Staircase)
++ [Mini-Max Sum Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank-Solutions/Mini-Max-Sum)
++ [Birthday Cake Candles Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank-Solutions/Birthday-Cake-Candles)
++ [Grading Students Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank-Solutions/Grading-Students)
++ [Number Line Jumps Solution](https://github.com/Uzayky/Go-TDD-Practice/tree/master/HackerRank-Solutions/Number-Line-Jumps)
++ [Subarray Division Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank-Solutions/Subarray-Division)
++ [Bill Division Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank-Solutions/Bill-Division)
++ [Beautiful Days at the Movie Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank-Solutions/Beautiful-Days-at-the-Movie)
++ [Cats and Mouse](https://github.com/Uzayky/Al-Go-rithms/tree/master/HackerRank-Solutions/Cats-And-Mouse)
++ [Save the Prisoner](https://github.com/Uzayky/Al-Go-rithms/tree/master/HackerRank-Solutions/Save-The-Prisoner)
+
 #### Difficulty : Medium
-+ [Queen's Attack II Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank_Solutions/Queens-Attack-II)
++ [Queen's Attack II Solution](https://github.com/Uzayky/Go-Practice/tree/master/HackerRank-Solutions/Queens-Attack-II)
 #### Difficulty : Hard
 
 ---
